@@ -1,0 +1,14 @@
+C:\lscc\iCEcube2.2017.08\synpbase\bin64\m_generic.exe  -prodtype  synplify_pro   -encrypt  -pro  -rundir  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt   -part iCE40UP5K  -package UWG30    -maxfan 10000 -RWCheckOnRam 0 -pipe -fixgatedclocks 1 -fixgeneratedclocks 1 -summaryfile C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\synlog\report\blink_fpga_mapper.xml  -flow mapping  -multisrs  -oedif  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.edf   -autoconstraint  -freq 1.000   C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\synwork\blink_prem.srd  -sap  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.sap  -otap  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.tap  -omap  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.map  -devicelib  C:\lscc\iCEcube2.2017.08\synpbase\lib\generic\sb_ice40.v  -sap  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.sap  -ologparam  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\syntmp\blink.plg  -osyn  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.srm  -prjdir  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\  -prjname  blink_syn  -log  C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\synlog\blink_fpga_mapper.srr 
+rc:1 success:1 runtime:1
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.edf|io:o|time:1525636142|size:120706|exec:0
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\synwork\blink_prem.srd|io:i|time:1525636140|size:6415|exec:0
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.sap|io:o|time:1525636141|size:556|exec:0
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.tap|io:o|time:0|size:0|exec:0
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.map|io:o|time:1525636142|size:28|exec:0
+file:C:\lscc\iCEcube2.2017.08\synpbase\lib\generic\sb_ice40.v|io:i|time:1525564164|size:224837|exec:0
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.sap|io:o|time:1525636141|size:556|exec:0
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\syntmp\blink.plg|io:o|time:1525636142|size:664|exec:0
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.srm|io:o|time:1525636141|size:19365|exec:0
+file:C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\synlog\blink_fpga_mapper.srr|io:o|time:1525636142|size:19147|exec:0
+file:C:\lscc\iCEcube2.2017.08\synpbase\bin\m_generic.exe|io:i|time:1525564160|size:17853440|exec:1
+file:C:\lscc\iCEcube2.2017.08\synpbase\bin64\m_generic.exe|io:i|time:1525564162|size:32355840|exec:1

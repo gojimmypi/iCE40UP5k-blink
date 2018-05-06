@@ -1,0 +1,2 @@
+@W: MT246 :"c:\workspace-git\icestorm\examples\up5k_rgb\rgb.v":63:12:63:22|Blackbox SB_RGBA_DRV is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
+@W: MT420 |Found inferred clock top|clk_inferred_clock with period 20.83ns. Please declare a user-defined clock on object "n:clk"

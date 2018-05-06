@@ -1,0 +1,3 @@
+OUTPUT RGB2 	 location (6, 31, 0) 	 C5 	 
+OUTPUT RGB1 	 location (5, 31, 0) 	 B5 	 
+OUTPUT RGB0 	 location (4, 31, 0) 	 A5 	 

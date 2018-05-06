@@ -1,0 +1,16 @@
+@P:  Worst Slack : 9.954
+@P:  top|clk_inferred_clock - Estimated Frequency : 91.9 MHz
+@P:  top|clk_inferred_clock - Requested Frequency : 48.0 MHz
+@P:  top|clk_inferred_clock - Estimated Period : 10.876
+@P:  top|clk_inferred_clock - Requested Period : 20.830
+@P:  top|clk_inferred_clock - Slack : 9.954
+@P:  System - Estimated Frequency : NA
+@P:  System - Requested Frequency : 1.0 MHz
+@P:  System - Estimated Period : NA
+@P:  System - Requested Period : 1000.000
+@P:  System - Slack : NA
+@P: top Part : ice40up5kuwg30
+@P: top I/O Register bits : 0
+@P: top Register bits (Non I/O) : 47 (0%)
+@P: top Total Luts : 123 (2%)
+@P:  CPU Time : 0h:00m:01s

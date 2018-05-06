@@ -1,0 +1,7 @@
+Selecting top level module top
+@N: CG364 :"C:\lscc\iCEcube2.2017.08\synpbase\lib\generic\sb_ice40.v":4020:7:4020:14|Synthesizing module SB_HFOSC in library work.
+
+@N: CG364 :"C:\lscc\iCEcube2.2017.08\synpbase\lib\generic\sb_ice40.v":4120:7:4120:17|Synthesizing module SB_RGBA_DRV in library work.
+
+@N: CG364 :"C:\workspace-git\icestorm\examples\up5k_rgb\rgb.v":1:7:1:9|Synthesizing module top in library work.
+

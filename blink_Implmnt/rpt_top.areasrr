@@ -1,0 +1,27 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40UP5KUWG30 (Lattice)
+
+-------------------------------------------------------------------
+########   Utilization report for  Top level view:   top   ########
+===================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     47                 100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block top:	47 (17.15 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       123                100 %                
+CARRYS     99                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block top:	222 (81.02 % Utilization)
+
+
+##### END OF AREA REPORT #####]
+

@@ -1,0 +1,11 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: MT206 |Auto Constrain mode is enabled
+@N: MO231 :"c:\workspace-git\icestorm\examples\up5k_rgb\rgb.v":17:0:17:5|Found counter in view:work.top(verilog) instance ctr[31:0] 
+@N: MO231 :"c:\workspace-git\icestorm\examples\up5k_rgb\rgb.v":55:0:55:5|Found counter in view:work.top(verilog) instance pwm_ctr[11:0] 
+@N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
+@N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
+@N: FX1056 |Writing EDF file: C:\lscc\iCEcube2.2017.08\sbt_backend\Projects\blink\blink_Implmnt\blink.edf
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.
+@N: MT582 |Estimated period and frequency not reported for given clock unless the clock has at least one timing path which is not a false or a max delay path and that does not have excessive slack

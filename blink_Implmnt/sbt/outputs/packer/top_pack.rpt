@@ -1,0 +1,82 @@
+* ******************************************************************************
+
+* iCEcube Report
+
+* Version:            2017.08.27940
+
+* Build Date:         Sep 11 2017 16:52:36
+
+* File Generated:     May 6 2018 12:49:34
+
+* Purpose:            General info of design implementation
+
+* Copyright (C) 2006-2010 by Lattice Semiconductor Corp. All rights reserved.
+
+* ******************************************************************************
+
+Synthesis/Placement Summary:
+----------------------------
+    Status:  Successful
+    Runtime: 0 seconds
+
+Device Info:
+------------
+    Device Family: iCE40UP
+    Device:        iCE40UP5K
+    Package:       UWG30
+
+Design statistics:
+------------------
+    FFs:                  47
+    LUTs:                 138
+    RAMs:                 0
+    IOBs:                 0
+    GBs:                  0
+    PLLs:                 0
+    Warm Boots:           0
+    SPIs:                 0
+    I2Cs:                 0
+    HFOSCs:               1
+    LFOSCs:               0
+    RGBA_DRVs:            1
+    LEDDA_IPs:            0
+    DSPs:                 0
+    SPRAMs:               0
+    FILTER_50NSs:         0
+
+Logic Resource Utilization:
+---------------------------
+    Total Logic Cells: 163/5280
+        Combinational Logic Cells: 116      out of   5280      2.19697%
+        Sequential Logic Cells:    47       out of   5280      0.890152%
+        Logic Tiles:               23       out of   660       3.48485%
+    Registers: 
+        Logic Registers:           47       out of   5280      0.890152%
+        IO Registers:              0        out of   480       0
+    Block RAMs:                    0        out of   30        0%
+    Warm Boots:                    0        out of   1         0%
+    SPIs:                          0        out of   2         0%
+    I2Cs:                          0        out of   2         0%
+    HFOSCs:                        1        out of   1         100%
+    LFOSCs:                        0        out of   1         0%
+    RGBA_DRVs:                     1        out of   1         100%
+    LEDDA_IPs:                     0        out of   1         0%
+    DSPs:                          0        out of   8         0%
+    SPRAMs:                        0        out of   4         0%
+    FILTER_50NSs:                  0        out of   2         0%
+    Pins:
+        Input Pins:                0        out of   21        0%
+        Output Pins:               0        out of   21        0%
+        InOut Pins:                0        out of   21        0%
+    Global Buffers:                0        out of   8         0%
+    PLLs:                          0        out of   1         0%
+
+IO Bank Utilization:
+--------------------
+    Bank 3: 0        out of   0         0%
+    Bank 1: 0        out of   0         0%
+    Bank 0: 0        out of   7         0%
+    Bank 2: 0        out of   14        0%
+
+Detailed I/O Info:
+------------------
